@@ -14,16 +14,15 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout your repository using git
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Install and build your site with Astro
+      - name: Install and Build with Astro
         uses: withastro/action@v2
-          # Estas líneas son opcionales, descoméntalas y ajusta según tu proyecto si es necesario
-          # path: .
-          # node-version: '14' # o la versión que prefieras
+        with:
+          # Opciones opcionales, ajusta según tu proyecto
+          # node-version: '14' # La versión de Node.js que prefieras
           # package-manager: npm ci
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
-        # No necesitas ajustes específicos aquí a menos que tengas requisitos particulares
