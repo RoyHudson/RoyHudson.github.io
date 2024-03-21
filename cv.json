@@ -1,0 +1,211 @@
+{
+  "basics": {
+    "name": "Roy Glennon Hudson Ortega",
+    "label": "Junior Developer",
+    "image": "/roy-webp.webp",
+    "email": "royhudson2099@gmail.com",
+    "phone": "+507 65643275",
+    "url": "",
+    "summary": "Como desarrollador, mi objetivo es profundizar y ampliar mis conocimientos en el ámbito de la tecnología y el desarrollo con el fin de alcanzar el nivel de un desarrollador Full Stack. Siento una pasión por resolver problemas, siempre en búsqueda de la solución más efectiva y óptima. Me caracterizo por mi atención al detalle, lo que me impulsa a perfeccionar mi trabajo hasta alcanzar la excelencia. Además, poseo una sólida base en el área de contabilidad y finanzas, fruto de mi experiencia en diversos roles dentro de este campo. Esta combinación de habilidades me permite tener una visión integral y multidisciplinaria, beneficiosa tanto en el desarrollo de software como en la gestión de proyectos.",
+    "location": {
+      "address": "Bella Vista, El Cangrejo",
+      "postalCode": "",
+      "city": "Ciudad de Panamá",
+      "countryCode": "PTY",
+      "region": "Panamá"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Roy Hudson",
+        "url": "https://www.linkedin.com/in/roy-hudson-55a01a175/"
+      },
+      {
+        "network": "X",
+        "username": "Roy Hudson",
+        "url": "https://twitter.com/RoyGHudsonO"
+      },
+      {
+        "network": "GitHub",
+        "username": "RoySykes",
+        "url": "https://github.com/RoyHudson"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Junta Comunal de Pueblo Nuevo",
+      "position": "Contable",
+      "url": "https://jcpueblonuevo.com/",
+      "startDate": "2022-06-01",
+      "endDate": "2023-12-31",
+      "summary": "Inicialmente entre como Asistente Contable en la Junta Comunal de Pueblo Nuevo, estuve a cargo de realizar auditorías internas, conciliaciones bancarias, registros, archivo, manejo de inventario, bienes patrimoniales y retenciones del estado. Luego me asignaron el cargo de Encargado del Departamento de Contabilidad y Jefe de Bienes Patrimoniales. Mi rol abarcaba la gestión integral de aspectos contables y administrativos. Además, coordine las comunicaciones con entidades gubernamentales como el Ministerio de Economía y Finanzas (MEF), la Contraloría y la Dirección General de Ingresos (DGI). En este contexto, superviso una variedad de procesos relacionados con la administración pública.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Instituto Superior de Ingeniería",
+      "position": "Asistente Contable",
+      "url": "",
+      "startDate": "2021-06-01",
+      "endDate": "2022-01-01",
+      "summary": "Durante mi trabajo en el Instituto Superior de Ingeniería como Asistente Contable, desempeñé labores de conciliaciones bancarias, registros, archivo y manejo de inventario.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Firma de Auditores Zaadia Ureña",
+      "position": "Auditor Junior",
+      "startDate": "2019-03-01",
+      "endDate": "2021-05-01",
+      "summary": "En mi experiencia como Auditor Junior en la firma de Auditoría Lcda. Zaadia Lombardo de Ureña , realicé actividades de auditoría en sitio durante el ciclo completo, con especial énfasis en conciliaciones bancarias y levantamiento de papeles de trabajo.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Universidad Interamericana de Panamá",
+    "url": "https://uip.edu.pa/",
+    "area": "Ingeniero de Software",
+    "studyType": "Licenciatura",
+    "startDate": "2018-01-01",
+    "endDate": "2024-06-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Beginner",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Django",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "Pagina Web de Junta Comunal de Santa ana",
+      "isActive": true,
+      "description": "Pagina Web hecha con Django para la entidad gubernamental del municipio de Panamá",
+      "highlights": [
+        "Pagina Web"
+      ],
+      "url": "https://jc-santana.com/"
+    },
+    {
+      "name": "Pal-Bolsillo",
+      "isActive": false,
+      "description": "Plataforma web que compara precios de productos de canasta basica en diferentes supermercados y da el mejor precio.",
+      "highlights": [
+        "Universitario",
+        "Pagina Web"
+      ],
+      "url": "https://pal-bolsillo.fly.dev/"
+    }
+  ]
+}
