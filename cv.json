@@ -9,7 +9,7 @@
     "summary": "Como desarrollador, mi objetivo es profundizar y ampliar mis conocimientos en el ámbito de la tecnología y el desarrollo con el fin de alcanzar el nivel de un desarrollador Full Stack. Siento una pasión por resolver problemas, siempre en búsqueda de la solución más efectiva y óptima. Me caracterizo por mi atención al detalle, lo que me impulsa a perfeccionar mi trabajo hasta alcanzar la excelencia. Además, poseo una sólida base en el área de contabilidad y finanzas, fruto de mi experiencia en diversos roles dentro de este campo. Esta combinación de habilidades me permite tener una visión integral y multidisciplinaria, beneficiosa tanto en el desarrollo de software como en la gestión de proyectos.",
     "location": {
       "address": "Bella Vista, El Cangrejo",
-      "postalCode": "",
+      "postalCode": "1",
       "city": "Ciudad de Panamá",
       "countryCode": "PTY",
       "region": "Panamá"
@@ -195,7 +195,8 @@
       "highlights": [
         "Pagina Web"
       ],
-      "url": "https://jc-santana.com/"
+      "url": "https://jc-santana.com/",
+      "github": ""
     },
     {
       "name": "Pal-Bolsillo",
@@ -205,7 +206,8 @@
         "Universitario",
         "Pagina Web"
       ],
-      "url": "https://pal-bolsillo.fly.dev/"
+      "url": "https://pal-bolsillo.fly.dev/",
+      "github": ""
     }
   ]
 }
