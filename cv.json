@@ -34,6 +34,17 @@
   },
   "work": [
     {
+      "name": "ADR Technologies",
+      "position": "Intership",
+      "url": "https://www.adrtec.com/",
+      "startDate": "2024-05-06",
+      "endDate": "2024-08-15",
+      "summary": "Intership en el equipo de desarrollo de ADR Techonogies, trabajando componentes en el CRM de salesforce.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
       "name": "Junta Comunal de Pueblo Nuevo",
       "position": "Contable",
       "url": "https://jcpueblonuevo.com/",
@@ -110,6 +121,13 @@
   }],
   "skills": [
     {
+      "name": "Apex",
+      "level": "Intermediate",
+      "keywords": [
+        "Data", "Backend"
+      ]
+    },
+    {
       "name": "HTML",
       "level": "Avanzado",
       "keywords": [
@@ -125,7 +143,7 @@
     },
     {
       "name": "JavaScript",
-      "level": "Beginner",
+      "level": "Intermediate",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "Fullstack"
       ]
