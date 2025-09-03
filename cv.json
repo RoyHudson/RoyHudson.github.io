@@ -35,11 +35,11 @@
   "work": [
     {
       "name": "ADR Technologies",
-      "position": "Intership",
+      "position": "Software Engineer",
       "url": "https://www.adrtec.com/",
       "startDate": "2024-05-06",
       "endDate": "Actual",
-      "summary": "Práctica profesional en el equipo de desarrollo de ADR Technologies, trabajando en la creación y optimización de componentes para el CRM de Salesforce.  Participé activamente en el ciclo completo de desarrollo, incluyendo la planificación, codificación, pruebas y despliegue de componentes",
+      "summary": "Realicé mi práctica profesional y posteriormente fui contratado, participando en el desarrollo y optimización de componentes para el CRM de Salesforce. Además, trabajé en un proyecto Mendix (low-code) para ARIFA, una de las firmas de abogados más importantes de Panamá, donde me encargué de tareas de frontend, backend, integraciones y DevOps.",
       "highlights": [
         "Started the company"
       ]
@@ -136,14 +136,14 @@
     },
     {
       "name": "CSS",
-      "level": "Intermediate",
+      "level": "Advanced",
       "keywords": [
         "Desarrollo Web", "Frontend", "Diseño Responsive"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Intermediate",
+      "level": "Advanced",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "Fullstack"
       ]
@@ -225,6 +225,18 @@
         "Pagina Web"
       ],
       "url": "https://pal-bolsillo.fly.dev/",
+      "github": ""
+    },
+    {
+      "name": "ARIFA",
+      "isActive": false,
+      "description": "Desarrollo de una solución digital destinada a optimizar los procesos de cumplimiento normativo en ARIFA, la firma de abogados más grande de Panamá. La plataforma automatiza la gestión de documentación, verificación de clientes y seguimiento de casos, garantizando la seguridad y eficiencia en el manejo de información legal y regulatoria.",
+      "highlights": [
+        "Laboral",
+        "Low-Code",
+        "Desarrollo Web"
+      ],
+      "url": "https://www.arifa.com/",
       "github": ""
     }
   ]
